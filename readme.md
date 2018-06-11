@@ -5,7 +5,7 @@ App de ejemplo que acompaña al artículo de [Apple Coding](http://applecoding.c
 
 Vamos a explorar una de las nuevas API presentadas durante la WWDC 2018, concretamente Siri Shortcuts.
 
-![Ubify App](https://github.com/fitomad/AppleCoding-Siri-Shortcuts/blob/master/Screenshots/1-ios.png)
+![Ubify App](https://github.com/fitomad/AppleCoding-Siri-Shortcuts/blob/master/Screenshots/1-ios-1.png)
 
 La app simula las llamadas a un servicio de alquiler de coches VTA que hace uso de los *Shortcuts* para que Siri sea capaz de detectar patrones de uso por parte del usuario y así poder sugerirle su uso momentos antes de que el usuario lo necesite.
 
