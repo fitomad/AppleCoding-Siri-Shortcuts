@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  AppleCoding-SiriShortcuts
+
+  Created by Adolfo Vera Blasco on 8/6/18.
+  Copyright © 2018 desappstre {eStudio}. All rights reserved.
+*/
+
+"CAR_TYPE_ELECTRIC" = "Renault Zoe";
+"CAR_TYPE_EXECUTIVE" = "Tesla Model S";
+"CAR_TYPE_GROUP" = "Mercedes Ban";
+
+"CS_CONTENT_TYPE" = "Solicita un coche";
+"CS_TITLE" = "Solicita un coche";
+"CS_DESCRIPTION" = "Deja que te llevemos donde quieras";
+"CS_LAUNCH_SUGGESTION_PHRASE" = "Quiero ir a %@";
+
+"CS_KEYWORD_CAR" = "Coche";
+"CS_KEYWORD_BOOK" = "Solicitar";
+"CS_KEYWORD_RIDE" = "Traslado";
+"CS_KEYWORD_HOME" = "Casa";
+"CS_KEYWORD_WORK" = "Trabajo";
+

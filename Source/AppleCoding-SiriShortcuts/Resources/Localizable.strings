@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  AppleCoding OAuth
+
+  Created by Adolfo Vera Blasco on 30/5/18.
+  Copyright © 2018 desappstre {eStudio}. All rights reserved.
+*/
+
+//
+// REQUEST RIDE
+//
+
+"REQUEST_GO_TITLE" = "¿Dónde quieres que te lleve?";
+"REQUEST_GO_HOME" = "Casa";
+"REQUEST_GO_WORK" = "Trabajo";
+
+"REQUEST_CAR_TITLE" = "¿En qué coche quieres viajar?";
+"REQUEST_CAR_ELECTRIC" = "ELÉCTRICO";
+"REQUEST_CAR_EXECUTIVE" = "EXECUTIVE";
+"REQUEST_CAR_GROUP" = "SUV";
+
+"REQUEST_PAY_TITLE" = "Forma de Pago";
+
+"REQUEST_PRICE_DETAILS" = "";
+
+"REQUEST_RIDE_BUTTON" = "Solicitar Viaje";
+
+//
+// RESPONSE RIDE
+//
+
+"RESPONSE_TITLE" = "";
+"RESPONSE_DRIVER_TITLE" = "";
+"RESPONSE_ARRIVAL_DETAILS_TEXT" = "";
+"RESPONSE_AMOUNT_TITLE" = "";
+"RESPONSE_CANCEL_BUTTON" = "";
